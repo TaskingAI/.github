@@ -1,6 +1,6 @@
 ## TaskingAI 🚀
 
-Welcome to TaskingAI, your go-to LLMOps platform that transforms AI application development with our intuitive visual design, context enhancement, and robust training capabilities. Our platform is perfect for both seasoned developers and beginners, providing easy-to-use tools for creating high-quality GPT applications.
+Welcome to TaskingAI, your go-to LLMOps platform that transforms AI application development with our intuitive visual design, context enhancement, and robust training capabilities. Our platform is perfect for both seasoned developers and beginners, providing easy-to-use tools for creating high-quality LLM applications.
 
 ## About Us
 
@@ -11,5 +11,7 @@ TaskingAI, a pioneering initiative from AutoPulse Inc., was conceived by a team 
 Got questions or ideas? Let's collaborate to make AI more accessible:
 
 Email us at: support@tasking.ai
+
 Engage with our community: Submit an Issue or PR on our GitHub
+
 Join us in shaping the future of AI!
