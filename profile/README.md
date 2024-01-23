@@ -1,6 +1,6 @@
 ## TaskingAI 🚀
 
-Welcome to TaskingAI, your go-to LLMOps platform that transforms AI application development with our intuitive visual design, context enhancement, and robust training capabilities. Our platform is perfect for both seasoned developers and beginners, providing easy-to-use tools for creating high-quality LLM applications.
+Welcome to TaskingAI, your go-to LLMOps platform that transforms AI application development with our intuitive visual design, context enhancement, and robust cloud service. Our platform is perfect for both seasoned developers and beginners, providing easy-to-use tools for creating high-quality LLM applications.
 
 ## About Us
 
